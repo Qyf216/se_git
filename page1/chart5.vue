@@ -143,7 +143,7 @@ export default {
             let option = {
                 title: [
                     {
-                        text: '【交易笔数分析】',
+                        text: '【交易笔数分析】(加入修改）',
                         textStyle: {
                             fontSize: 12,
                             color: '#75deef',
