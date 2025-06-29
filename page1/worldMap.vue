@@ -1,7 +1,7 @@
 <template>
     <div class="worldMap"></div>
 </template>
-
+//修改4
 <script>
 import "@/lib/world.js"
 

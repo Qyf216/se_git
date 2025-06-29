@@ -1,7 +1,7 @@
 <template>
     <div class="behaviorBar"></div>
 </template>
-
+//修改1
 <script>
 export default {
     name: '',

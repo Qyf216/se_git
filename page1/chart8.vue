@@ -1,7 +1,7 @@
 <template>
     <div class="funnel"></div>
 </template>
-
+//修改2
 <script>
 export default {
     name: '',
