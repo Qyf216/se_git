@@ -18,7 +18,7 @@ export default {
             var max = Math.max.apply(null, this.data.value);
             var arr = []
             for (let i = 0; i < 6; i++) {
-                arr.push(max / 10)
+                arr.push(max / 5)
             }
             return arr;
         },
