@@ -3,6 +3,7 @@
 </template>
 
 <script>//R12
+//修改4
 import "@/lib/world.js"
 
 export default {

@@ -15,6 +15,7 @@ export default {
     },
     methods: {
         // 交易支出 饼图
+        // 加入修改，增加新注释
         setChart() {
             let option = {
                 title: {

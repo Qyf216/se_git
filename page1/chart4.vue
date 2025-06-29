@@ -32,7 +32,7 @@ export default {
                     backgroundColor: '#11367a',
                     textStyle: {
                         color: '#6dd0e3',
-                        fontSize: 10,
+                        fontSize: 12,
                     },
                 },
                 series: [
