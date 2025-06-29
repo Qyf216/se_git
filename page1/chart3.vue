@@ -43,7 +43,7 @@ export default {
         setChart() {
             let option = {
                 grid: [{
-                    top: '10%',
+                    top: '20%',
                     bottom: '15%',
                     right: '5%',
                     left: '55.5%'
