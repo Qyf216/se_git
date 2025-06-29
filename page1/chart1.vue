@@ -47,7 +47,7 @@ export default {
                     itemWidth: 7,
                     itemHeight: 7,
                     textStyle: {
-                        color: '#75deef',
+                        color: '#FFFFFF',
                         fontSize: 12,
                     },
                     right: '5%',
