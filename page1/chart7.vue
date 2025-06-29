@@ -2,7 +2,7 @@
     <div class="behaviorBar"></div>
 </template>
 
-<script>
+<script>//R12
 export default {
     name: '',
     props: {

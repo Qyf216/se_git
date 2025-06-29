@@ -2,7 +2,7 @@
     <div class="worldMap"></div>
 </template>
 
-<script>
+<script>//R12
 import "@/lib/world.js"
 
 export default {

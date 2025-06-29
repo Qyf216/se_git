@@ -2,7 +2,7 @@
     <div class="funnel"></div>
 </template>
 
-<script>
+<script>//R12
 export default {
     name: '',
     data() {
